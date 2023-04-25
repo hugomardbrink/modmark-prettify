@@ -1,6 +1,6 @@
 # Prettify package for modmark
 
-This is a package meant to be proof of concept for a c++ package compiled to web assembly. This package is meant for the markup language [modmark](www.modmark.org).
+This is a package meant to be proof of concept for a c++ package compiled to web assembly. This package is meant for the markup language [modmark](https://www.modmark.org).
 
 In practice this became a package that makes the text have rainbow colours. It is compatible from modmark to latex and HTML
 
